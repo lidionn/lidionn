@@ -4,12 +4,8 @@ A self-taught frontend learner, currently focused on building my HTML & CSS skil
 
 Stay tuned as I learn and grow!🚀
 
+---
+
 #### 🌱 I’m currently learning
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
----
-
-<img src="https://raw.githubusercontent.com/https://github.com/lidionn/https://github.com/lidionn/output/snake.svg" alt="Snake animation" />
-
-###
